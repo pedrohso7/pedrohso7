@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrohso7" alt="pedrohso7" /></a> </p>
 
-- 🌱 I’m currently learning **Design Pattern's and Architeture's.**
+- 🌱 I’m currently learning about **Design Pattern's and Architeture's, especially Clean Architeture.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pedrohso7](https://github.com/pedrohso7)
 
-- 📫 How to reach me **pholiveira1998@hotmail.com**
+- 📫 You can send an email **pholiveira1998@hotmail.com** if you want to talk to me.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1skLmE8Cy04XPWGhHbnGksVv0rOZiye09/view?usp=sharing](https://drive.google.com/file/d/1skLmE8Cy04XPWGhHbnGksVv0rOZiye09/view?usp=sharing)
+- 📄 You can know about my experiences [https://drive.google.com/file/d/1skLmE8Cy04XPWGhHbnGksVv0rOZiye09/view?usp=sharing](https://drive.google.com/file/d/1skLmE8Cy04XPWGhHbnGksVv0rOZiye09/view?usp=sharing)
 
-- ⚡ Fun fact **They say I look like Yudi Tamashiro.**
+- ⚡ Fun fact: **They say I look like Yudi Tamashiro.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
