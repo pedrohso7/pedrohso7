@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Oliveira.</h1>
 <h3 align="center">A lifelong student of new things from Brazil.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrohso7" alt="pedrohso7" width="400"/></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pedrohso7&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohso7" /> </p>
 
 - 🌱 I’m currently learning about **Design Pattern's and Architeture's, especially Clean Architeture.**
 
