@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning about **Design Pattern's and Architeture's, especially Clean Architeture.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pedrohso7](https://github.com/pedrohso7)
+- 👨‍💻 All my projects are available at [https://github.com/pedrohso7](https://github.com/pedrohso7)
 
 - 📫 You can send an email **pholiveira1998@hotmail.com** if you want to talk to me.
 
-- 📄 You can know about my experiences [https://drive.google.com/file/d/1skLmE8Cy04XPWGhHbnGksVv0rOZiye09/view?usp=sharing](https://drive.google.com/file/d/1skLmE8Cy04XPWGhHbnGksVv0rOZiye09/view?usp=sharing)
+- 📄 You can know about my experiences on this link [https://drive.google.com/file/d/1skLmE8Cy04XPWGhHbnGksVv0rOZiye09/view?usp=sharing](https://drive.google.com/file/d/1skLmE8Cy04XPWGhHbnGksVv0rOZiye09/view?usp=sharing)
 
 - ⚡ Fun fact: **They say I look like Yudi Tamashiro.**
 
