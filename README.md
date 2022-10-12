@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Oliveira.</h1>
-<h3 align="center">A lifelong student of new things from Brazil.</h3>
+<h3 align="center">A brazilian lifelong student of new things.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedrohso7&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohso7" /> </p>
 
