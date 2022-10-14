@@ -4,7 +4,7 @@
   </div>
   <div class="column" >
     <h2 align="center">Hi 👋, I'm Pedro Oliveira.</h2>
-    <h4 align="center">A brazilian lifelong student of new things.</h4>    
+    <h4 align="center">A Full Stack Developer from Brazil.</h4>    
     <p align="center"><img src="https://komarev.com/ghpvc/?username=pedrohso7&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohso7" /></p>
     <ul>
     <li>🌱 I’m currently learning about <b>Design Pattern's and Architeture's, especially Clean Architeture.</b></li>
