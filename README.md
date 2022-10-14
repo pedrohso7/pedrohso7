@@ -1,32 +1,18 @@
-
 <div class="row">
   <div class="column">
-    
-    <img align="left" src="https://user-images.githubusercontent.com/32853995/195912692-1b544f52-5930-4746-abc2-83a46611132f.png" alt="pedrohso7" />
+    <img align="left" src="https://user-images.githubusercontent.com/32853995/195925558-80f09ecd-16f4-4afb-b120-cc5169ab8922.png" alt="pedrohso7" />
   </div>
   <div class="column" >
     <h2 align="center">Hi 👋, I'm Pedro Oliveira.</h2>
-    <h4 align="center">A brazilian lifelong student of new things.</h4>
-
-    
-    <p><img align="center" src="https://komarev.com/ghpvc/?username=pedrohso7&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohso7" /></p>
-
-<!--     <ul>
+    <h4 align="center">A brazilian lifelong student of new things.</h4>    
+    <p align="center"><img src="https://komarev.com/ghpvc/?username=pedrohso7&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohso7" /></p>
+    <ul>
     <li>🌱 I’m currently learning about <b>Design Pattern's and Architeture's, especially Clean Architeture.</b></li>
     <li>👨‍💻 All my projects are on this GitHub profile.</li>
     <li>📫 You can send an email to <b>pholiveira1998@hotmail.com</b> if you want to talk to me.</li>
     <li>📄 You can know about my experiences on this <a href="https://drive.google.com/file/d/1skLmE8Cy04XPWGhHbnGksVv0rOZiye09/view?usp=sharing">link</a>.</li>
     <li>⚡ Fun fact: <b>They say I look like Yudi Tamashiro.</b></li>
-    </ul> -->
-    <p>
-    * 🌱 I’m currently learning about <b>Design Pattern's and Architeture's, especially Clean Architeture.</b>
-    
-    * 👨‍💻 All my projects are on this GitHub profile.
-  
-    * 📫 You can send an email to <b>pholiveira1998@hotmail.com</b> if you want to talk to me.
-    * 📄 You can know about my experiences on this <a href="https://drive.google.com/file/d/1skLmE8Cy04XPWGhHbnGksVv0rOZiye09/view?usp=sharing">link</a>.
-    * ⚡ Fun fact: <b>They say I look like Yudi Tamashiro.</b>
-    </p>
+    </ul>
   </div>
 </div>
 
