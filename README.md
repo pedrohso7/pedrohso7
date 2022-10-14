@@ -1,14 +1,14 @@
-<h2 align="center">Hi 👋, I'm Pedro Oliveira.</h1>
-<h4 align="center">A brazilian lifelong student of new things.</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pedrohso7&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohso7" /> </p>
 
 <div class="row">
   <div class="column">
     <img align="left" src="https://user-images.githubusercontent.com/32853995/195912692-1b544f52-5930-4746-abc2-83a46611132f.png" alt="pedrohso7" />
   </div>
   <div class="column" >
-    <vr><vr>
+    <h2 align="center">Hi 👋, I'm Pedro Oliveira.</h1>
+    <h4 align="center">A brazilian lifelong student of new things.</h3>
+
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=pedrohso7&label=Profile%20views&color=0e75b6&style=flat" alt="pedrohso7" /> </p>
+
     <ul>
     <li>🌱 I’m currently learning about <b>Design Pattern's and Architeture's, especially Clean Architeture.</b></li>
     <li>👨‍💻 All my projects are on this GitHub profile.</li>
