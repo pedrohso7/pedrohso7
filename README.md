@@ -1,6 +1,6 @@
 <div class="row">
   <div class="column">
-    <img align="left" src="https://user-images.githubusercontent.com/32853995/196068930-86786b74-de2f-4b9f-b70e-e6e8e4a27f69.JPG" alt="pedrohso7" width="280"/>
+    <img align="left" src="https://user-images.githubusercontent.com/32853995/196068930-86786b74-de2f-4b9f-b70e-e6e8e4a27f69.JPG" alt="pedrohso7" width="230"/>
   </div>
   <div class="column" >
     <h2 align="center">Hi 👋, I'm Pedro Oliveira.</h2>
