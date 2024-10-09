@@ -9,10 +9,10 @@
     <p align="left">
     <h5>Things about me:</h5>
     <ul align="left">
-         ✦ 🌱 I’m currently learning about <b>Design Pattern's and Architeture's, especially Clean Architeture with TDD.</b><br/>
+         ✦ 🌱 I am passionate for the best practices.</b><br/>
          ✦ 👨‍💻 All my projects are on this GitHub profile.<br/>
          ✦ 📫 You can send an email to <b>pholiveira1998@hotmail.com</b> if you want to talk to me.<br/>
-         ✦ 📄 You can know about my experiences on this <a href="https://drive.google.com/file/d/1uY1OyqKIuTF_zWGPYMGo5Az6_EQLLV4o/view?usp=sharing">link</a>.<br/>
+         ✦ 📄 You can know about my experiences on this <a href="https://www.linkedin.com/in/pedrohso7/">link</a>.<br/>
          ✦ ⚡ Fun fact: <b>They say I look like Yudi Tamashiro.</b><br/>
     </ul>
     </p>
